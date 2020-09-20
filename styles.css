@@ -1,0 +1,29 @@
+#left-panel {
+  position: fixed;
+  width: 12%;
+  height: 100%;
+  background-color: #202020;
+  border: none;
+}
+
+#left-panel-top {
+  width: 100%;
+  height: 200px;
+  background-color: #101010;
+  border: 5px solid red;
+  position: absolute;
+}
+
+#left-panel-mid {
+  width: 90%;
+  height: 500px;
+  background-color: #101010;
+  border: 5px solid red;
+  position: absolute;
+}
+
+#main {
+  float: right;
+  width: 88%;
+  background-color: #303030;
+}
